@@ -1,1 +1,1 @@
-Hallo, Iam Fauzi Allagan
+Hallo, I am Ahmad Fauzi

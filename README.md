@@ -1,1 +1,1 @@
-Hallo, I am Ahmad Fauzi
+Hi.. :)  I am Ahmad Fauzi, have a nice day :)

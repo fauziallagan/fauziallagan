@@ -62,11 +62,11 @@ hello, I'm a tech enthusiast, I'm currently studying at Gunadarma University maj
             <img height="32px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" >  
             </td>
            <td width="80px" align="center">
-            <span><strong>HML</strong></span><br>         
+            <span><strong>HTML</strong></span><br>         
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
             </td>  
             <td width="80px" align="center">
-            <span><strong>Raspberry</strong></span><br>
+            <span><strong>Boostrap</strong></span><br>
             <img  height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
             </td>
       </tr>

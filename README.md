@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahmad Fauzi Allagan</h1>
-<p align="center"> <img width="50%" src ="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bachelor+of+Computer+Systems...;Tech+Enthusiast...;Robotic+Enthusiast...;Certified+AWS+Cloud+Practitioner...;Computer+Network+Enthusiast...)"(https://git.io/typing-svg) </p>
+<p align="center"> <img width="50%" src ="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bachelor+of+Computer+Systems . . . .;Tech+Enthusiast . . . .;Robotic+Enthusiast . . . .;Certified+AWS+Cloud+Practitioner . . . .;Computer+Network+Enthusiast. . . ."(https://git.io/typing-svg) </p>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=fauziallagan&label=Profile%20views&color=182020&style=plastic" alt="fauziallagan" /> </p>
 
